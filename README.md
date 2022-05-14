@@ -1,5 +1,7 @@
 # BlackJack_Game
 A simple BlackJack game with java 
+# The Objective of Blackjack
+Beat The Dealer. There are some misconceptions about the objective of the game of blackjack but at the simplest level all you are trying to do is beat the dealer.
 # How to play ? 
 You can press 1 to draw a new card (hit) and 2 to pause (stand)
 # How do you beat the dealer?
